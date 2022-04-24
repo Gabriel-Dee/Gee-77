@@ -1,5 +1,5 @@
 # ABOUT ME
-- 👋 Hi, I’m @Gee-77
+- 👋 Hi, I’m @Gabriel-Dee
 - 👀 I’m interested in ...Programming in general
 - 🌱 I’m currently pursuing a bachelors degree in Computer Engineering and IT at The University Of Dar Es Salaam.
 - 💞️ I’m looking to collaborate on ...Any project that is in my ability
